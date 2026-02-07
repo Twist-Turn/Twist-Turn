@@ -1,88 +1,145 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
-<h3 align="center">Machine Learning • Computer Vision • Data Analytics • SaaS</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Dinesh Kumar
 
-<p align="center">
-  <a href="mailto:dineshdk2108@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dinesh-kumar-5a1a0b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/twist_turn/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/twist-turn" target="_blank"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### Machine Learning Expert | Data Analyst | AI Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=twist-turn&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/twist-turn?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=twist-turn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **M.Tech (CSE)** — Sri Krishna College of Engineering and Technology, Coimbatore (Oct 2022 – Present)
-- 💬 Ask me about **Machine Learning Algorithms, Computer Vision, Automation Testing**
-- 📫 Reach me: **dineshdk2108@gmail.com** | 📞 **+91 63819-23830**
+<div align="center">
+  
+### 🚀 About Me
+
+</div>
+
+```yaml
+name: Dinesh Kumar
+located_in: India
+current_focus: Machine Learning & Data Analysis
+expertise: ML Algorithms, Deep Learning, Data Science
+email: dineshdk2108@gmail.com
+```
+
+- 🔭 I'm passionate about building intelligent systems with **Machine Learning**
+- 🌱 Currently exploring advanced **Deep Learning** architectures
+- 💬 Ask me about **Machine Learning Algorithms** and **Data Analysis**
+- 📫 Reach me at **dineshdk2108@gmail.com**
+- ⚡ Fun fact: I love solving problems on LeetCode!
 
 ---
 
-## 🧰 Technical Skills
-**Programming:** Python • TypeScript • JavaScript (ES6+) • Java • SQL  
-**Web/Testing:** React.js • Next.js • Angular • Node.js • Flask • Playwright • PyTest • Jest  
-**Cloud/DevOps:** AWS (EC2, S3, Lambda) • Docker • GitHub Actions • CI/CD • Serverless • OIDC • Netlify  
-**AI/ML:** LLM Orchestration • MCP • Agentic AI • YOLO • OpenCV • K-means • Computer Vision
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumar-5a1a0b257/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/twist_turn/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshdk2108@gmail.com)
+
+</div>
 
 ---
 
-## 💼 Experience
+<div align="center">
 
-### SaaS Developer — **VCNITI** (Aug 2025 – Oct 2025)
-- Built an **algorithm-driven Product Predictor** in TypeScript to generate material lists + budget estimates, reducing manual estimation time by **60%**
-- Developed **competitive intelligence**: aggregated + ranked supplier pricing across **5+ vendors**, cutting research time by **45%**
-- Designed **unified multi-vendor checkout**: reduced checkout steps **7 → 3**, lowering drop-off by **35%**
-**Tech:** React.js • Node.js • REST APIs • Algorithm Design • Data Analysis
+### 🛠️ Tech Stack
 
-### SDET — **Cloud Cares** (Sep 2024 – Nov 2024)
-- Built Playwright **E2E automation** for Healthcare SaaS patient portal (appointments, records, prescriptions)
-- Achieved **95%+ coverage** for critical user journeys; found **12 critical defects** pre-release
-- Implemented reusable **POM + parameterized tests**, reducing redundancy by **40%** and CI runtime by **30%**
-**Tech:** Playwright • TypeScript • CI/CD • RBAC • Test Automation
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
----
+#### ML/AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 🚀 Projects
+#### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### ⚽ Football Match Analysis System (2025)
-- Built CV system with **95% accuracy** for player/referee/ball detection using custom **YOLOv5**
-- Used **K-means clustering** to reduce team assignment errors by **40%**
-- Created optical-flow + perspective transform pipeline to compute speed/distance with **92% accuracy**
-- Processed full matches **8× faster** (90 minutes under 15 minutes) with complete stat generation  
-**Tech:** Python • YOLOv5 • OpenCV • K-means • NumPy • Pandas • Matplotlib  
-🔗 Repo: *(add link here)*
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
----
+#### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🏆 Achievements
-- **National Finalist — Smart India Hackathon (Dec 2024):** Top 5 teams nationally (top 1%); CV tool processing **250,000+ images/month**, improved response time by **30%**
-- **National Finalist — Rajasthan Police Hackathon (Jan 2024):** Real-time crime analytics using ML for pattern recognition + anomaly detection
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=twist-turn&theme=flat&no-frame=true&row=1&column=7" />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=twist-turn&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twist-turn&layout=compact" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twist-turn" />
-</p>
+### 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=twist-turn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=twist-turn&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+### 💻 Most Used Languages
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=twist-turn&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building ML systems that ship measurable impact.</i>
-</p>
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=twist-turn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
+If you find my projects helpful, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/twist_turn">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=twist-turn&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 "The only way to do great work is to love what you do."**
+
+Made with ❤️ by Dinesh Kumar
+
+</div>
