@@ -1,31 +1,88 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
-<h3 align="center">A passionate Machine Learning Expert and Data Analyst from India</h3>
+<h3 align="center">Machine Learning • Computer Vision • Data Analytics • SaaS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twist-turn&label=Profile%20views&color=0e75b6&style=flat" alt="twist-turn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twist-turn" alt="twist-turn" /></a> </p>
-
-- 💬 Ask me about **Machine Learning Algorithm**
-
-- 📫 How to reach me **dineshdk2108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-kumar-5a1a0b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-kumar-5a1a0b257/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/twist_turn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twist_turn/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:dineshdk2108@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dinesh-kumar-5a1a0b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/twist_turn/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/twist-turn" target="_blank"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=twist-turn&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/twist-turn?label=Followers&style=flat&color=0e75b6" alt="followers" />
+</p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/twist_turn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/twist_turn" /></a></p><br><br>
+## 👨‍💻 About Me
+- 🎓 **M.Tech (CSE)** — Sri Krishna College of Engineering and Technology, Coimbatore (Oct 2022 – Present)
+- 💬 Ask me about **Machine Learning Algorithms, Computer Vision, Automation Testing**
+- 📫 Reach me: **dineshdk2108@gmail.com** | 📞 **+91 63819-23830**
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twist-turn&show_icons=true&locale=en&layout=compact" alt="twist-turn" /></p>
+## 🧰 Technical Skills
+**Programming:** Python • TypeScript • JavaScript (ES6+) • Java • SQL  
+**Web/Testing:** React.js • Next.js • Angular • Node.js • Flask • Playwright • PyTest • Jest  
+**Cloud/DevOps:** AWS (EC2, S3, Lambda) • Docker • GitHub Actions • CI/CD • Serverless • OIDC • Netlify  
+**AI/ML:** LLM Orchestration • MCP • Agentic AI • YOLO • OpenCV • K-means • Computer Vision
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twist-turn&show_icons=true&locale=en" alt="twist-turn" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twist-turn&" alt="twist-turn" /></p>
+## 💼 Experience
 
+### SaaS Developer — **VCNITI** (Aug 2025 – Oct 2025)
+- Built an **algorithm-driven Product Predictor** in TypeScript to generate material lists + budget estimates, reducing manual estimation time by **60%**
+- Developed **competitive intelligence**: aggregated + ranked supplier pricing across **5+ vendors**, cutting research time by **45%**
+- Designed **unified multi-vendor checkout**: reduced checkout steps **7 → 3**, lowering drop-off by **35%**
+**Tech:** React.js • Node.js • REST APIs • Algorithm Design • Data Analysis
+
+### SDET — **Cloud Cares** (Sep 2024 – Nov 2024)
+- Built Playwright **E2E automation** for Healthcare SaaS patient portal (appointments, records, prescriptions)
+- Achieved **95%+ coverage** for critical user journeys; found **12 critical defects** pre-release
+- Implemented reusable **POM + parameterized tests**, reducing redundancy by **40%** and CI runtime by **30%**
+**Tech:** Playwright • TypeScript • CI/CD • RBAC • Test Automation
+
+---
+
+## 🚀 Projects
+
+### ⚽ Football Match Analysis System (2025)
+- Built CV system with **95% accuracy** for player/referee/ball detection using custom **YOLOv5**
+- Used **K-means clustering** to reduce team assignment errors by **40%**
+- Created optical-flow + perspective transform pipeline to compute speed/distance with **92% accuracy**
+- Processed full matches **8× faster** (90 minutes under 15 minutes) with complete stat generation  
+**Tech:** Python • YOLOv5 • OpenCV • K-means • NumPy • Pandas • Matplotlib  
+🔗 Repo: *(add link here)*
+
+---
+
+## 🏆 Achievements
+- **National Finalist — Smart India Hackathon (Dec 2024):** Top 5 teams nationally (top 1%); CV tool processing **250,000+ images/month**, improved response time by **30%**
+- **National Finalist — Rajasthan Police Hackathon (Jan 2024):** Real-time crime analytics using ML for pattern recognition + anomaly detection
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=twist-turn&theme=flat&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=twist-turn&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twist-turn&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twist-turn" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building ML systems that ship measurable impact.</i>
+</p>
